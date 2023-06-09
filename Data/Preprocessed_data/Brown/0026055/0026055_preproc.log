@@ -1,0 +1,10 @@
+1 /home/drcc/ADHD200_test/Brown/0026055
+/home/drcc/ADHD200_test/Brown/0026055 parsed into 0026055
+processing session_1
+/home/drcc/ADHD200_test/Brown/0026055/session_1//anat_1/mprage_noface.nii.gz found! processing...
+wssd0026055_session_1_anat_csf.nii.gz and wssd0026055_session_1_anat_wm.nii.gz already exist
+/home/drcc/ADHD200_test/Brown/0026055/session_1//rest_1//rest.nii.gz found, processing ...
+snwmrda0026055_session_1_rest_1.nii.gz and sfnwmrda0026055_session_1_rest_1.nii.gz already exist
+already computed fALFF
+ snwmrda0026055_session_1_rest_1_TCs.1D already extracted timecourses in template space
+fc_snwmrda0026055_session_1_rest_1.nii.gz already exists
