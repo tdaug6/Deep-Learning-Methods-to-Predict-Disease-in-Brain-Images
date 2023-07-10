@@ -1,0 +1,27 @@
+ID,Site,Gender,Age,Handedness,DX,Secondary Dx ,ADHD Index,Inattentive,Hyper/Impulsive,Med Status,Verbal IQ,Performance IQ,IQ
+26001,2,1,16.92,1.0,pending,pending,pending,pending,pending,pending,133.0,104.0,120.0
+26002,2,1,15.68,1.0,pending,pending,pending,pending,pending,pending,106.0,106.0,107.0
+26004,2,0,14.99,1.0,pending,pending,pending,pending,pending,pending,119.0,123.0,125.0
+26005,2,0,15.16,1.0,pending,pending,pending,pending,pending,pending,116.0,131.0,126.0
+26009,2,1,16.91,0.0,pending,pending,pending,pending,pending,pending,113.0,81.0,97.0
+26014,2,0,16.21,1.0,pending,pending,pending,pending,pending,pending,101.0,102.0,102.0
+26015,2,0,15.2,1.0,pending,pending,pending,pending,pending,pending,127.0,98.0,113.0
+26016,2,1,16.07,1.0,pending,pending,pending,pending,pending,pending,120.0,96.0,109.0
+26017,2,0,14.56,1.0,pending,pending,pending,pending,pending,pending,95.0,87.0,89.0
+26022,2,1,17.83,1.0,pending,pending,pending,pending,pending,pending,105.0,111.0,109.0
+26024,2,0,17.77,1.0,pending,pending,pending,pending,pending,pending,89.0,83.0,85.0
+26027,2,0,11.28,1.0,pending,pending,pending,pending,pending,pending,108.0,103.0,106.0
+26030,2,0,14.51,1.0,pending,pending,pending,pending,pending,pending,121.0,119.0,123.0
+26039,2,0,14.19,1.0,pending,pending,pending,pending,pending,pending,125.0,117.0,124.0
+26040,2,0,13.67,1.0,pending,pending,pending,pending,pending,pending,111.0,93.0,102.0
+26041,2,0,13.68,1.0,pending,pending,pending,pending,pending,pending,129.0,120.0,128.0
+26042,2,0,13.82,1.0,pending,pending,pending,pending,pending,pending,106.0,110.0,109.0
+26043,2,0,11.6,1.0,pending,pending,pending,pending,pending,pending,125.0,127.0,129.0
+26044,2,0,9.32,1.0,pending,pending,pending,pending,pending,pending,119.0,93.0,107.0
+26045,2,1,14.67,1.0,pending,pending,pending,pending,pending,pending,109.0,109.0,111.0
+26050,2,0,8.5,1.0,pending,pending,pending,pending,pending,pending,121.0,116.0,121.0
+26052,2,0,17.87,1.0,pending,pending,pending,pending,pending,pending,111.0,109.0,112.0
+26053,2,1,15.79,1.0,pending,pending,pending,pending,pending,pending,123.0,111.0,120.0
+26054,2,0,12.02,1.0,pending,pending,pending,pending,pending,pending,136.0,109.0,125.0
+26055,2,1,17.74,1.0,pending,pending,pending,pending,pending,pending,109.0,119.0,116.0
+26057,2,1,12.0,1.0,pending,pending,pending,pending,pending,pending,114.0,110.0,114.0
